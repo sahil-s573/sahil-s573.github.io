@@ -137,8 +137,8 @@ kramdown:
 plugins:
   - jekyll-feed
 
-include:
-  - _projects
+# include:
+#   - _projects
 
 
 # Exclude from processing.
