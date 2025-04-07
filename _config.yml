@@ -115,10 +115,10 @@ colors: # this is the basic theme
 #########################################################################################################
 # Build settings for the site. Editing the below may cause the site to malfunction.
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:path/
 
 
 markdown: kramdown
