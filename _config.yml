@@ -3,12 +3,10 @@ title: Sahil's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Sahil Sonawane
-headline: headline message
+headline: 
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Hello ! I am Sahil, a FY student persuing Software Engineering at MIT Academy of Engineering.
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
